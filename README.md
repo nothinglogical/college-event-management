@@ -38,3 +38,16 @@ Planning stage. The repository currently contains project documentation only.
 - Add an event listing page.
 - Include a registration form for each event.
 - Add search and category filters.
+
+## Event Information Checklist
+
+Every event announcement should ideally include:
+
+1. Event title and short description
+2. Date and start time
+3. Venue or online meeting details
+4. Organising club or department
+5. Registration instructions and deadline
+6. Contact information for queries
+
+Providing these details makes event announcements easier for students to understand and act on.
