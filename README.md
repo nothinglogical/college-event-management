@@ -19,3 +19,22 @@ This project is a learning exercise for practising Git and GitHub basics, includ
 ## Status
 
 Planning stage. The repository currently contains project documentation only.
+
+## Intended Users
+
+- **Students:** browse events and find participation details.
+- **Event organisers:** share accurate event information with the campus community.
+- **College clubs:** promote club activities and workshops.
+
+## Example Event Categories
+
+- Technical workshops and hackathons
+- Cultural programmes and festivals
+- Sports competitions
+- Guest lectures and seminars
+
+## Future Improvements
+
+- Add an event listing page.
+- Include a registration form for each event.
+- Add search and category filters.
